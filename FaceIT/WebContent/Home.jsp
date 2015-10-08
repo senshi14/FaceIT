@@ -13,6 +13,7 @@
 </head>
 <body>
 	<div class="main">
+	<div></div>
 		<div class="header" >
 			<h1>Welcome to FaceIT!</h1>
 		</div>
